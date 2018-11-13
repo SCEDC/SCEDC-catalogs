@@ -7,12 +7,12 @@ Southern California Seismic Network 1932-present.
 They are available in 2 formats:  SCEC_DC and SCSN.
 For documentation on the formats, please go to 
 
-http://www.data.scec.org/eq-catalogs/catalog_search_help.html#output_format
+http://scedc.caltech.edu/eq-catalogs/catalog_search_help.html#output_format
 
 A current snapshot of these files can be found at 
 
-http://www.data.scec.org/ftp/catalogs/SCEC_DC
+https://service.scedc.caltech.edu/ftp/catalogs/SCEC_DC
 and 
-http://www.data.scec.org/ftp/catalogs/SCSN
+https://service.scedc.caltech.edu/ftp/catalogs/SCSN
 
 Earthquake parametric catalogs from Southern California Earthquake Data Center
