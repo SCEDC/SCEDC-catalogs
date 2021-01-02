@@ -1,0 +1,25 @@
+###############################################################################
+# The following is an SCEDC-format listing of catalog data from the Southern  #
+# California Earthquake Data Center (SCEDC) holdings for 2021. For a format   #
+# description, see http://www.data.scec.org/ftp/catalogs/SCEC_DC. The data  # 
+# below include local, regional, and quarry-blast events with epicenters be-  #
+# tween latitudes 32.0S and 37.0N and longitudes between -122.0W and -114.0E. # 
+# For other event types or locations, see the SCEDC catalog-search page at    #
+# http://www.data.scec.org/catalog_search.            		      #
+############################################################################### 
+#YYY/MM/DD HH:mm:SS.ss ET GT MAG  M    LAT     LON     DEPTH Q  EVID     NPH NGRM
+2021/01/01 00:54:24.75 eq  l 0.61 l    33.614 -116.568  -0.3 C 39508343   14  901
+2021/01/01 01:23:49.13 eq  l 1.72 l    34.030 -118.758   9.8 A 39508351   22 2408
+2021/01/01 01:35:18.39 eq  l 1.88 l    33.839 -117.842   3.5 A 39508367   62 2755
+2021/01/01 02:22:00.96 eq  l 1.26 l    35.890 -117.742   8.9 A 39508391   25 1192
+2021/01/01 02:57:10.18 eq  l 1.44 l    35.861 -117.662   7.0 A 39508407   19 1402
+2021/01/01 04:29:25.38 eq  l 2.48 l    32.293 -115.192   1.8 B 39508431   19 1937
+2021/01/01 05:39:57.45 eq  l 1.04 l    33.300 -116.319   9.2 A 39508455   41 1360
+2021/01/01 06:01:01.99 eq  l 2.87 l    33.744 -115.928   3.1 A 39508463   81 2996
+2021/01/01 06:56:06.47 eq  l 1.25 l    36.190 -117.868   5.4 A 39508479   20  973
+2021/01/01 07:58:56.00 eq  l 0.59 l    35.911 -117.751  16.8 C 39508487    7  392
+2021/01/01 08:12:02.18 eq  l 0.78 l    35.816 -117.627   9.7 A 39508495   12  338
+2021/01/01 08:17:53.40 eq  l 1.28 l    35.673 -117.524   2.9 A 39508503   25  962
+2021/01/01 08:21:29.87 eq  l 0.82 l    35.905 -117.721   7.3 D 39508511   11    0
+
+### Number of rows returned:13 
