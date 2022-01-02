@@ -1,0 +1,27 @@
+##################################################################################
+# The following is an SCSN-format listing of catalog data from the Southern 	 #
+# California Earthquake Data Center (SCEDC) holdings for 2022. For a format      #
+# description, see http://www.data.scec.org/ftp/catalogs/SCSN. The data below  #
+# include local, regional, and quarry-blast events with epicenters between       # 
+# latitudes 32 degrees S and 37 degrees N and longitudes between -122 degrees W  #
+# and -114 degrees E. For other event types or locations, see the SCEDC catalog- #
+# search page at http://www.data.scec.org/catalog_search.                      #
+################################################################################## 
+#YYY MM DD  HH mm SS.ss  LATITUDE LONGITUDE Q MAG     DEPTH NPH    RMS   EVID
+2022 01 01  00 04 07.58  33 18.88-116 51.25 A 1.1     10.93 37     0.23 39900343
+2022 01 01  00 08 46.94  33 52.95-117 12.40 C 0.5      5.65 22     0.36 39900359
+2022 01 01  00 08 48.88  34  3.11-117 12.69 A 1.6     13.38 58     0.18 39900367
+2022 01 01  01 31 41.38  32 49.08-115 28.72 A 1.8      5.12 17     0.21 39900383
+2022 01 01  01 48 56.62  34 14.10-117 27.81 A 1.6      8.49 53     0.18 39900391
+2022 01 01  02 05 50.61  32 48.58-116  6.06 A 1.3     11.33 14     0.12 39900399
+2022 01 01  03 35 22.52  35 48.91-120 58.35 C 2.0      0.52  8     0.20 39900415
+2022 01 01  03 46 52.59  32 57.24-116 55.52 C 1.5     41.98  5     0.10 39900423
+2022 01 01  05 23 57.61  35 53.40-117 40.98 A 1.8      4.86 28     0.12 39900439
+2022 01 01  05 45 55.16  34  5.12-116 42.31 A 1.3      3.12 39     0.21 39900447
+2022 01 01  06 02 14.41  35 57.29-117 41.65 A 1.4      3.15 23     0.15 39900455
+2022 01 01  06 10 48.38  35 53.69-120 27.27 D 3.4      1.28 62     0.25 39900463
+2022 01 01  06 26 43.25  33 13.33-116  2.28 A 1.6      9.87 47     0.27 39900479
+2022 01 01  06 30 11.83  35 18.57-118 11.44 A 1.7      1.04 25     0.18 39900487
+2022 01 01  07 10 40.76  35 40.68-117 32.79 A 1.5     11.03 21     0.16 39900503
+
+### Number of rows returned:15 

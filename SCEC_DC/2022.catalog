@@ -1,0 +1,27 @@
+###############################################################################
+# The following is an SCEDC-format listing of catalog data from the Southern  #
+# California Earthquake Data Center (SCEDC) holdings for 2022. For a format   #
+# description, see http://www.data.scec.org/ftp/catalogs/SCEC_DC. The data  # 
+# below include local, regional, and quarry-blast events with epicenters be-  #
+# tween latitudes 32.0S and 37.0N and longitudes between -122.0W and -114.0E. # 
+# For other event types or locations, see the SCEDC catalog-search page at    #
+# http://www.data.scec.org/catalog_search.            		      #
+############################################################################### 
+#YYY/MM/DD HH:mm:SS.ss ET GT MAG  M    LAT     LON     DEPTH Q  EVID     NPH NGRM
+2022/01/01 00:04:07.58 eq  l 1.05 l    33.315 -116.854  10.9 A 39900343   37 1490
+2022/01/01 00:08:46.94 eq  l 0.49 l    33.883 -117.207   5.7 C 39900359   22 2237
+2022/01/01 00:08:48.88 eq  l 1.57 l    34.052 -117.212  13.4 A 39900367   58 2410
+2022/01/01 01:31:41.38 eq  l 1.78 l    32.818 -115.479   5.1 A 39900383   17 1692
+2022/01/01 01:48:56.62 eq  l 1.62 l    34.235 -117.463   8.5 A 39900391   53 2501
+2022/01/01 02:05:50.61 eq  l 1.26 l    32.810 -116.101  11.3 A 39900399   14 1133
+2022/01/01 03:35:22.52 eq  l 1.95 l    35.815 -120.972   0.5 C 39900415    8 1194
+2022/01/01 03:46:52.59 eq  l 1.52 l    32.954 -116.925  42.0 C 39900423    5 2020
+2022/01/01 05:23:57.61 eq  l 1.79 l    35.890 -117.683   4.9 A 39900439   28 2123
+2022/01/01 05:45:55.16 eq  l 1.32 l    34.085 -116.705   3.1 A 39900447   39 1765
+2022/01/01 06:02:14.41 eq  l 1.39 l    35.955 -117.694   3.1 A 39900455   23  809
+2022/01/01 06:10:48.38 eq  l 3.44 l    35.895 -120.454   1.3 D 39900463   62 2719
+2022/01/01 06:26:43.25 eq  l 1.62 l    33.222 -116.038   9.9 A 39900479   47 1716
+2022/01/01 06:30:11.83 eq  l 1.72 l    35.309 -118.191   1.0 A 39900487   25 2397
+2022/01/01 07:10:40.76 eq  l 1.45 l    35.678 -117.546  11.0 A 39900503   21 1558
+
+### Number of rows returned:15 
