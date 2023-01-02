@@ -1,0 +1,27 @@
+###############################################################################
+# The following is an SCEDC-format listing of catalog data from the Southern  #
+# California Earthquake Data Center (SCEDC) holdings for 2023. For a format   #
+# description, see http://www.data.scec.org/ftp/catalogs/SCEC_DC. The data  # 
+# below include local, regional, and quarry-blast events with epicenters be-  #
+# tween latitudes 32.0S and 37.0N and longitudes between -122.0W and -114.0E. # 
+# For other event types or locations, see the SCEDC catalog-search page at    #
+# http://www.data.scec.org/catalog_search.            		      #
+############################################################################### 
+#YYY/MM/DD HH:mm:SS.ss ET GT MAG  M    LAT     LON     DEPTH Q  EVID     NPH NGRM
+2023/01/01 00:32:11.54 eq  l 1.34 l    33.096 -117.382  25.9 C 40152447   13 2254
+2023/01/01 00:32:22.74 eq  l 0.87 l    33.413 -116.609   7.7 A 40152455   43 1270
+2023/01/01 00:57:36.62 eq  l 0.55 l    33.562 -116.609  14.4 A 40152463   22 1444
+2023/01/01 01:00:24.89 eq  l 1.82 l    34.404 -118.722   4.9 A 40152471   65 2895
+2023/01/01 01:07:57.81 eq  l 0.82 l    33.406 -116.373   1.0 A 40152479   28 1283
+2023/01/01 02:10:25.51 eq  l 1.00 l    33.011 -116.415   8.2 A 40152487   41 1336
+2023/01/01 02:18:25.74 eq  l 1.16 l    33.403 -116.384   1.6 A 40152495   61 1934
+2023/01/01 02:19:31.80 eq  l 0.64 l    33.405 -116.381   1.2 A 40152503   23 1060
+2023/01/01 02:26:52.42 eq  l 1.75 l    34.056 -118.134   3.7 C 40152511    8 2334
+2023/01/01 02:41:10.04 eq  l 0.79 l    33.228 -116.594  17.0 A 40152519   35 1110
+2023/01/01 03:32:25.57 eq  l 0.55 l    33.402 -116.380   3.6 A 40152527   25 1191
+2023/01/01 06:10:59.19 eq  l 0.93 l    33.404 -116.384   1.3 A 40152535   50 1526
+2023/01/01 06:34:11.32 eq  l 1.26 l    34.354 -116.918   5.2 A 40152543   33 1919
+2023/01/01 06:46:15.20 eq  l 1.65 l    33.401 -116.386   2.3 A 40152551   78 2264
+2023/01/01 06:49:25.97 eq  l 2.97 l    35.702 -120.534  27.6 D 40152559   34 2855
+
+### Number of rows returned:15 
